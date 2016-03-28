@@ -1,5 +1,5 @@
 Семестровый проект на PYTHON
-My project is an ordinary banner (Linux) with horizontal exit. Windows console is bad, but so far I'm not ready to move on Linux, because I will write in cygwin. Tag Parsing a complicated procedure for me, so I will replace them on the output setting using command line parameters. Below is an approximate functional.
+   My project is an ordinary banner (Linux) with horizontal exit. Windows console is bad, but so far I'm not ready to move on Linux, because I will write in cygwin. Tag Parsing a complicated procedure for me, so I will replace them on the output setting using command line parameters. Below is an approximate functional.
 
 Usage: bannerp [OPTION].. [TEXT]
 Options:
